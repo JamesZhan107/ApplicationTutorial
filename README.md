@@ -207,9 +207,6 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [Curl-Python]: https://curl.trillworks.com/
 [Greasy Fork]: https://greasyfork.org/zh-CN
 [gitIgnore]: https://www.gitignore.io/
-<<<<<<< HEAD
-[processon]: https://www.processon.com/diagrams/new#temp-system
-=======
 [processOn]: https://www.processon.com/
 [JsonFormatter]: https://jsonformatter.curiousconcept.com/
 [Codingground]: https://www.tutorialspoint.com/codingground.htm
@@ -218,4 +215,3 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [leetcode]: https://leetcode.com/
 [httpcode]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 [vultr]: https://www.vultr.com
->>>>>>> 353efed2c2f7da128088aa655ebb14f8586889ca
