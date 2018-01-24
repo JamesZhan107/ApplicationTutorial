@@ -140,7 +140,15 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 - [Curl-Python] - curl指令转化为phthon命令
 - [Greasy Fork] - Tampermonkey脚本库
 - [gitIgnore] - 生成.gitignore工具
-- [processon] - 在线画图工具（流程图，结构图）
+- [processOn] - 免费在线作图，实时协作
+- [JsonFormatter] - json文本格式化
+- [Codingground] - 支持大部分语言的在线编辑器，强大的代码学习工具
+- [ipip] - 一个ip分析网址，测试全球ping值
+- [newsBlur] - rss订阅源管理
+- [leetcode] - 技术人员增强知识，评测能力的优秀平台
+- [httpcode] - http响应吗标准参考
+- [vultr] - 科学上网从这里开始
+
 
 ## 终端工具
 
@@ -199,4 +207,15 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [Curl-Python]: https://curl.trillworks.com/
 [Greasy Fork]: https://greasyfork.org/zh-CN
 [gitIgnore]: https://www.gitignore.io/
+<<<<<<< HEAD
 [processon]: https://www.processon.com/diagrams/new#temp-system
+=======
+[processOn]: https://www.processon.com/
+[JsonFormatter]: https://jsonformatter.curiousconcept.com/
+[Codingground]: https://www.tutorialspoint.com/codingground.htm
+[ipip]: https://www.ipip.net/
+[newsBlur]: http://newsblur.com/
+[leetcode]: https://leetcode.com/
+[httpcode]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+[vultr]: https://www.vultr.com
+>>>>>>> 353efed2c2f7da128088aa655ebb14f8586889ca
